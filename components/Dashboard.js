@@ -69,9 +69,7 @@ export default function Dashboard() {
           }
         }
       }, {merge: true})
-      //update global state
-      //update firebase
-      //update local State
+    
 
     }catch(err){
       console.log(err.message)

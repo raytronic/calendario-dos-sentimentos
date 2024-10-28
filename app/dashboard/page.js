@@ -1,8 +1,8 @@
 
 import Dashboard from "@/components/Dashboard"
-import Main from "@/components/main"
+import Main from "@/components/Main"
 import Login from "@/components/Login"
-import Loading from "@/components/loading"
+import Loading from "@/components/Loading"
 
 export const metadata = {
     title:"Calendario dos sentimentos"
